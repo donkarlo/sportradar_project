@@ -7,3 +7,4 @@ class FirstTask(TaskBase):
 
     def run(self):
         ''''Do something specific to the first task'''
+        pass
