@@ -16,3 +16,8 @@ where = ["src"]
 addopts = "-ra --tb=short --strict-markers"
 
 testpaths = ["tests"]
+
+#dependencies
+#dependencies = [
+#    "utilityx @ git+https://github.com/donkarlo/utilityx_project.git@main"
+#]

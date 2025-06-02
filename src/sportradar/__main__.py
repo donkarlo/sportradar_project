@@ -1,1 +1,2 @@
-from utilityx.conf.say import say_something
+def main():
+    print ("Hi I am in sportradar_project>src>sportradar>__main__.py  and running method main()")
